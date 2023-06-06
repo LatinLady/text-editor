@@ -11,5 +11,13 @@ SO THAT I can dependably recover them for afterward utilize
 
 # Deployed link
 
-# Link
+heroku :
+https://editortext.herokuapp.com/
+
+Github :
+https://github.com/LatinLady/text-editor.git
+
+# Video link
+
+
 
