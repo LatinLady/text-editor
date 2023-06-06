@@ -18,6 +18,7 @@ Github :
 https://github.com/LatinLady/text-editor.git
 
 # Video link
+https://drive.google.com/file/d/1UIble3t6kj5UjRcSITtDuxgN131pA-J-/view
 
 
 
