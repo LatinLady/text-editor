@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@types/workbox-webpack-plugin": "^6.0.0",
-    "concurrently": "^5.2.0"
+    "concurrently": "^5.2.0",
+    "workbox-webpack-plugin": "^7.0.0"
   }
 }
